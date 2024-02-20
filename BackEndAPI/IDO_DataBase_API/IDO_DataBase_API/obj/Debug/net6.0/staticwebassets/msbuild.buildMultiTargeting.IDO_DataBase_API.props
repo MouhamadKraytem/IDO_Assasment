@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IDO_DataBase_API.props" />
+</Project>
